@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/594412389140963950/7bf639a1ac144049b7a339be9065688f/artifacts
+end_time: 1748248664959
+entry_point_name: ''
+experiment_id: '594412389140963950'
+lifecycle_stage: active
+run_id: 7bf639a1ac144049b7a339be9065688f
+run_name: beautiful-koi-839
+run_uuid: 7bf639a1ac144049b7a339be9065688f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248632750
+status: 3
+tags: []
+user_id: Damilare

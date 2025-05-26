@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/886612956934275170/0638530053f94e309c32c62a74fad282/artifacts
+end_time: 1748248390417
+entry_point_name: ''
+experiment_id: '886612956934275170'
+lifecycle_stage: active
+run_id: 0638530053f94e309c32c62a74fad282
+run_name: polite-auk-8
+run_uuid: 0638530053f94e309c32c62a74fad282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248382210
+status: 3
+tags: []
+user_id: Damilare

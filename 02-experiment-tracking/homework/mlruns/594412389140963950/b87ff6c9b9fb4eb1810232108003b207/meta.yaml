@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/594412389140963950/b87ff6c9b9fb4eb1810232108003b207/artifacts
+end_time: 1748248632657
+entry_point_name: ''
+experiment_id: '594412389140963950'
+lifecycle_stage: active
+run_id: b87ff6c9b9fb4eb1810232108003b207
+run_name: efficient-perch-790
+run_uuid: b87ff6c9b9fb4eb1810232108003b207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248608963
+status: 3
+tags: []
+user_id: Damilare

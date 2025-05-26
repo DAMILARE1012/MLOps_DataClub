@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/886612956934275170/30fe41a6dc744a3b9e9b63fca91509f7/artifacts
+end_time: 1748248382081
+entry_point_name: ''
+experiment_id: '886612956934275170'
+lifecycle_stage: active
+run_id: 30fe41a6dc744a3b9e9b63fca91509f7
+run_name: selective-wolf-328
+run_uuid: 30fe41a6dc744a3b9e9b63fca91509f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248380346
+status: 3
+tags: []
+user_id: Damilare

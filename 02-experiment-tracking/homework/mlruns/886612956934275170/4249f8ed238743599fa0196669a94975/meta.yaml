@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/886612956934275170/4249f8ed238743599fa0196669a94975/artifacts
+end_time: 1748248402780
+entry_point_name: ''
+experiment_id: '886612956934275170'
+lifecycle_stage: active
+run_id: 4249f8ed238743599fa0196669a94975
+run_name: bouncy-ant-437
+run_uuid: 4249f8ed238743599fa0196669a94975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248397136
+status: 3
+tags: []
+user_id: Damilare

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/886612956934275170/a844e5b6be334c99a6d652e024287635/artifacts
+end_time: 1748248344405
+entry_point_name: ''
+experiment_id: '886612956934275170'
+lifecycle_stage: active
+run_id: a844e5b6be334c99a6d652e024287635
+run_name: powerful-seal-493
+run_uuid: a844e5b6be334c99a6d652e024287635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248340079
+status: 3
+tags: []
+user_id: Damilare

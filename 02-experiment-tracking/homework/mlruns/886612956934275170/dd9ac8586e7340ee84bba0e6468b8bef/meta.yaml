@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/886612956934275170/dd9ac8586e7340ee84bba0e6468b8bef/artifacts
+end_time: 1748248397070
+entry_point_name: ''
+experiment_id: '886612956934275170'
+lifecycle_stage: active
+run_id: dd9ac8586e7340ee84bba0e6468b8bef
+run_name: delicate-hog-748
+run_uuid: dd9ac8586e7340ee84bba0e6468b8bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248390481
+status: 3
+tags: []
+user_id: Damilare

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/594412389140963950/208f788701de4ba6bfa0adf7b50b1846/artifacts
+end_time: 1748248733097
+entry_point_name: ''
+experiment_id: '594412389140963950'
+lifecycle_stage: active
+run_id: 208f788701de4ba6bfa0adf7b50b1846
+run_name: likeable-zebra-395
+run_uuid: 208f788701de4ba6bfa0adf7b50b1846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248712788
+status: 3
+tags: []
+user_id: Damilare

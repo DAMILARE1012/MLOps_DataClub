@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/594412389140963950/ff4b1badc74e423abcae37f992f27643/artifacts
+end_time: 1748249109362
+entry_point_name: ''
+experiment_id: '594412389140963950'
+lifecycle_stage: active
+run_id: ff4b1badc74e423abcae37f992f27643
+run_name: upset-bee-969
+run_uuid: ff4b1badc74e423abcae37f992f27643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748249086731
+status: 3
+tags: []
+user_id: Damilare

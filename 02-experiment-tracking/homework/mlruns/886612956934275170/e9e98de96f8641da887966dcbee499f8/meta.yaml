@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/886612956934275170/e9e98de96f8641da887966dcbee499f8/artifacts
+end_time: 1748248421948
+entry_point_name: ''
+experiment_id: '886612956934275170'
+lifecycle_stage: active
+run_id: e9e98de96f8641da887966dcbee499f8
+run_name: unruly-croc-756
+run_uuid: e9e98de96f8641da887966dcbee499f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248414515
+status: 3
+tags: []
+user_id: Damilare

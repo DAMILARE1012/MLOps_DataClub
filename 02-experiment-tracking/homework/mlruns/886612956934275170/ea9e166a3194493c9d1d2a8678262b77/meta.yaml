@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/886612956934275170/ea9e166a3194493c9d1d2a8678262b77/artifacts
+end_time: 1748248380258
+entry_point_name: ''
+experiment_id: '886612956934275170'
+lifecycle_stage: active
+run_id: ea9e166a3194493c9d1d2a8678262b77
+run_name: hilarious-koi-103
+run_uuid: ea9e166a3194493c9d1d2a8678262b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248363954
+status: 3
+tags: []
+user_id: Damilare

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/886612956934275170/7d08f3efd0de490c8adbfdb2ec3a0619/artifacts
+end_time: 1748248330356
+entry_point_name: ''
+experiment_id: '886612956934275170'
+lifecycle_stage: active
+run_id: 7d08f3efd0de490c8adbfdb2ec3a0619
+run_name: burly-moose-845
+run_uuid: 7d08f3efd0de490c8adbfdb2ec3a0619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248318083
+status: 3
+tags: []
+user_id: Damilare
