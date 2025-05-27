@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/466748639667030896/350adbfe2f9744b3aeb01ba26ffcfa7d/artifacts
+end_time: 1748354454217
+entry_point_name: ''
+experiment_id: '466748639667030896'
+lifecycle_stage: active
+run_id: 350adbfe2f9744b3aeb01ba26ffcfa7d
+run_name: thundering-midge-205
+run_uuid: 350adbfe2f9744b3aeb01ba26ffcfa7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748354417948
+status: 3
+tags: []
+user_id: Damilare
