@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damilare/Desktop/DataClubs/mlops-zoomcamp/03-orchestration/homework/mlruns/0/40d5f486aa0d4ad8bae1887e8e8305c4/artifacts
+end_time: 1748880623692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40d5f486aa0d4ad8bae1887e8e8305c4
+run_name: capable-hawk-840
+run_uuid: 40d5f486aa0d4ad8bae1887e8e8305c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748880586622
+status: 3
+tags: []
+user_id: Damilare
